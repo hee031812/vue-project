@@ -125,7 +125,6 @@ export default {
 
 .port__item a {
     /* filter: opacity(0.5); */
-    height: 250px;
     margin-bottom: 20px;
     border-radius: 10px;
 }
@@ -159,6 +158,8 @@ export default {
     text-align: center;
     justify-content: center;
     padding: 15px;
+    display: flex;
+    flex-direction: column;
 }
 
 .port__item a.link:hover {
