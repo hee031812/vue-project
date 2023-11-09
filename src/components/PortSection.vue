@@ -26,7 +26,7 @@ import { portText } from "@/constants/index";
 
 <script>
 import gsap from "gsap";
-import ScrollTrigger from "gsap/scrollTrigger";
+import ScrollTrigger from "gsap/ScrollTrigger";
 gsap.registerPlugin(ScrollTrigger);
 
 export default {
