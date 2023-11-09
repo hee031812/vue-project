@@ -35,7 +35,6 @@ Vue.js는사용자인터페이스(UI)를 만들고 관리하기 위한 기능을
 4. `npm install`   
 5. `npm run format`   
 6. `npm run dev`   
-
 7. gsap 설치: `npm install gsap`
 8. sass 설치: `npm install sass`
-9. lenis 설치: `npm install @studio-freight/lenis`
+9. lenis 설치: `npm install @studio-freight/lenis` 
